@@ -124,7 +124,7 @@ var AppModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"card\">\r\n  <div class=\"card-header\">\r\n    {{pageTitle}}\r\n  </div>\r\n  <div class=\"card-body\">\r\n    <div class=\"container-fluid\">\r\n      <div class=\"text-center\">\r\n        <img src=\"./assets/images/logo.jpg\"\r\n             class=\"img-responsive center-block\"\r\n             style=\"max-height:300px;padding-bottom:50px\" />\r\n      </div>\r\n\r\n      <div class=\"text-center\">Developed by:</div>\r\n      <div class=\"text-center\">\r\n        <h3>Vijay (based on tutorial of Deborah Kurata)</h3>\r\n      </div>\r\n\r\n      <div class=\"text-center\">@baranidar</div>\r\n      <div class=\"text-center\">\r\n        <a href=\"https://github.com/baranidar/Angular-test\"></a>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>"
+module.exports = "<div class=\"card\">\r\n  <div class=\"card-header\">\r\n    {{pageTitle}}\r\n  </div>\r\n  <div class=\"card-body\">\r\n    <div class=\"container-fluid\">\r\n      <div class=\"text-center\">\r\n        <img src=\"./APM/dist/APM/assets/images/logo.jpg\"\r\n             class=\"img-responsive center-block\"\r\n             style=\"max-height:300px;padding-bottom:50px\" />\r\n      </div>\r\n\r\n      <div class=\"text-center\">Developed by:</div>\r\n      <div class=\"text-center\">\r\n        <h3>Vijay (based on tutorial of Deborah Kurata)</h3>\r\n      </div>\r\n\r\n      <div class=\"text-center\">@baranidar</div>\r\n      <div class=\"text-center\">\r\n        <a href=\"https://github.com/baranidar/Angular-test\"></a>\r\n      </div>\r\n    </div>\r\n  </div>\r\n</div>"
 
 /***/ }),
 
