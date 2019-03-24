@@ -480,7 +480,7 @@ var __metadata = (undefined && undefined.__metadata) || function (k, v) {
 var ProductService = /** @class */ (function () {
     function ProductService(http) {
         this.http = http;
-        this.productUrl = '/APM/dist/APM/api/products/products.json';
+        this.productUrl = 'APM/dist/APM/api/products/products.json';
     }
     ProductService.prototype.getProducts = function () {
         return this.http.get(this.productUrl).pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["tap"])(function (data) { return console.log('All:  ' + JSON.stringify(data)); }), Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
